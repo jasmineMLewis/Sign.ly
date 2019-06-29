@@ -1,0 +1,30 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="Sign.ly.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html class="full-height" lang="en-US">
+    <head runat="server">
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>ID Receipt</title>
+        <meta name="description" content="Material design landing page template built by TemplateFlip.com"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+        <link href="~/Styles/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="~/Styles/mdb.min.css" rel="stylesheet" type="text/css" />
+        <link href="~/Styles/main.css" rel="stylesheet" type="text/css" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+    <body id="top">
+       
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+       
+        <script type="text/javascript" src="./Scripts/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="./Scripts/popper.min.js"></script>
+        <script type="text/javascript" src="./Scripts/bootstrap.min.js"></script>
+        <script type="text/javascript" src="./Scripts/mdb.min.js"></script>
+    </body>
+</html>

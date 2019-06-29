@@ -92,9 +92,35 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="Default.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="Images\creditcard-receipt.png" />
+    <Content Include="Images\hanoLogo.png" />
+    <Content Include="Images\hanoLogoSmaller.png" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-3.2.1.min.js" />
+    <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\mdb.js" />
+    <Content Include="Scripts\mdb.min.js" />
+    <Content Include="Scripts\popper.min.js" />
+    <Content Include="Styles\bootstrap.css" />
+    <Content Include="Styles\bootstrap.min.css" />
+    <Content Include="Styles\main.css" />
+    <Content Include="Styles\mdb.css" />
+    <Content Include="Styles\mdb.min.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -114,6 +140,13 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Site.Master.designer.vb">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.vb">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -124,6 +157,26 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Font\Roboto-Bold.eot" />
+    <Content Include="Font\Roboto-Bold.ttf" />
+    <Content Include="Font\Roboto-Bold.woff" />
+    <Content Include="Font\Roboto-Bold.woff2" />
+    <Content Include="Font\Roboto-Light.eot" />
+    <Content Include="Font\Roboto-Light.ttf" />
+    <Content Include="Font\Roboto-Light.woff" />
+    <Content Include="Font\Roboto-Light.woff2" />
+    <Content Include="Font\Roboto-Medium.eot" />
+    <Content Include="Font\Roboto-Medium.ttf" />
+    <Content Include="Font\Roboto-Medium.woff" />
+    <Content Include="Font\Roboto-Medium.woff2" />
+    <Content Include="Font\Roboto-Regular.eot" />
+    <Content Include="Font\Roboto-Regular.ttf" />
+    <Content Include="Font\Roboto-Regular.woff" />
+    <Content Include="Font\Roboto-Regular.woff2" />
+    <Content Include="Font\Roboto-Thin.eot" />
+    <Content Include="Font\Roboto-Thin.ttf" />
+    <Content Include="Font\Roboto-Thin.woff" />
+    <Content Include="Font\Roboto-Thin.woff2" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -133,13 +186,21 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="obj\Debug\Sign.ly.vbproj.CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\Sign.ly.vbprojAssemblyReference.cache" />
     <None Include="packages.config" />
+    <Content Include="Site.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="Receipts\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -6,7 +6,7 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <header>
       <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" id="navbar">
-        <div class="container"><a class="navbar-brand" href="#">ID Receipt</a>
+        <div class="container"><a class="navbar-brand" href="#">Sign.ly</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" 
                 aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -25,15 +25,15 @@
               <div class="col-md-10 col-lg-6 text-center text-md-left margins">
                 <div class="white-text">
                   <div class="wow fadeInLeft" data-wow-delay="0.3s">
-                    <h1 class="h1-responsive font-bold mt-sm-5">ID Receipt</h1>
+                    <h1 class="h1-responsive font-bold mt-sm-5">Sign.ly</h1>
                    <div class="h6">
-                      ID Receipt automates employees' signatures by emailing their signed 
+                      Sign.ly automates employees' signatures by emailing their signed 
                       electronic copy to the perspective parties. 
                    </div>
                   </div>
                   <br />
                   <div class="wow fadeInLeft" data-wow-delay="0.3s">
-                     <a class="btn btn-outline-white" data-toggle="modal" data-target="#myModal" role="button" href="#">ID Receipt</a>
+                     <a class="btn btn-outline-white" data-toggle="modal" data-target="#myModal" role="button" href="#">Sign.ly</a>
                   </div>
                 </div>
               </div>
@@ -49,7 +49,7 @@
           <div class="modal-content">
         
             <div class="modal-header">
-              <h4 class="modal-title">ID Receipt</h4>
+              <h4 class="modal-title">Sign.ly</h4>
               <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
         
@@ -57,7 +57,7 @@
               <div class="text-center"><img class="img-responsive" src="./Images/hanoLogo.png" alt="" /></div>
 
               <br />
-              <h2 class="text-center">ID Receipt</h2>
+              <h2 class="text-center">Sign.ly</h2>
               <br />
 
               <p>I acknowledge that I have received a Housing Authority of New Orleans (HANO) identification card (ID). 

@@ -35,3 +35,4 @@ C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.dll
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.xml
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.pdb
+C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.vbprojAssemblyReference.cache

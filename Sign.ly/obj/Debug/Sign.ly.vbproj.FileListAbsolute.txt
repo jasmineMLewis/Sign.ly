@@ -1,3 +1,6 @@
+C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.Resources.resources
+C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.vbproj.GenerateResource.cache
+C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.vbproj.CoreCompileInputs.cache
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\bin\Sign.ly.dll.config
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\bin\Sign.ly.dll
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\bin\Sign.ly.pdb
@@ -30,10 +33,6 @@ C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\bin\roslyn\VBCSCo
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\bin\IronPdf.dll
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\bin\IronPdf.xml
-C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.vbprojAssemblyReference.cache
-C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.Resources.resources
-C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.vbproj.GenerateResource.cache
-C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.vbproj.CoreCompileInputs.cache
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.vbproj.CopyComplete
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.dll
 C:\Users\dholmes\Documents\VisualBasicPrograms\Sign.ly\Sign.ly\obj\Debug\Sign.ly.xml
